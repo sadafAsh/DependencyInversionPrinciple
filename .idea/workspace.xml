@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="840d1835-be6a-4a07-9021-fae7c10c8aba" name="Default Changelist" comment="" />
+    <list default="true" id="840d1835-be6a-4a07-9021-fae7c10c8aba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +55,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="251I2VlASVf4K1jhi3WHcYz17E0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -62,6 +68,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -83,7 +90,7 @@
       <command value="gradle sonarqube    -Dsonar.projectKey=DependencyInversionPrinciple    -Dsonar.host.url=http://localhost:9000    -Dsonar.login=a1f6a51f2c4769664d04b338e860477b52b960d4" />
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.DepedencyInversionPrinciple [sonarqube]">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.soj.principle.dependencyinversion.Main" />
       <module name="DepedencyInversionPrinciple.main" />
@@ -175,8 +182,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.DepedencyInversionPrinciple" />
         <item itemvalue="Gradle.DepedencyInversionPrinciple [sonarqube]" />
+        <item itemvalue="Gradle.DepedencyInversionPrinciple" />
         <item itemvalue="Gradle.ElectricPowerSwitchTest.testToCheckTheFanSwitchOff" />
         <item itemvalue="Gradle.ElectricPowerSwitchTest.testToCheckTheFanSwitchIsOn" />
         <item itemvalue="Application.Main" />
@@ -225,22 +232,22 @@
       <screen x="0" y="0" width="1368" height="720" />
     </state>
     <state width="429" height="466" key="DebuggerActiveHint/0.0.1368.720@0.0.1368.720" timestamp="1644780871916" />
-    <state width="1325" height="176" key="GridCell.Tab.0.bottom" timestamp="1644796349352">
+    <state width="1325" height="176" key="GridCell.Tab.0.bottom" timestamp="1644796711987">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="176" key="GridCell.Tab.0.bottom/0.0.1368.720@0.0.1368.720" timestamp="1644796349352" />
-    <state width="1325" height="176" key="GridCell.Tab.0.center" timestamp="1644796349352">
+    <state width="1325" height="176" key="GridCell.Tab.0.bottom/0.0.1368.720@0.0.1368.720" timestamp="1644796711987" />
+    <state width="1325" height="176" key="GridCell.Tab.0.center" timestamp="1644796711987">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="176" key="GridCell.Tab.0.center/0.0.1368.720@0.0.1368.720" timestamp="1644796349352" />
-    <state width="1325" height="176" key="GridCell.Tab.0.left" timestamp="1644796349352">
+    <state width="1325" height="176" key="GridCell.Tab.0.center/0.0.1368.720@0.0.1368.720" timestamp="1644796711987" />
+    <state width="1325" height="176" key="GridCell.Tab.0.left" timestamp="1644796711986">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="176" key="GridCell.Tab.0.left/0.0.1368.720@0.0.1368.720" timestamp="1644796349352" />
-    <state width="1325" height="176" key="GridCell.Tab.0.right" timestamp="1644796349352">
+    <state width="1325" height="176" key="GridCell.Tab.0.left/0.0.1368.720@0.0.1368.720" timestamp="1644796711986" />
+    <state width="1325" height="176" key="GridCell.Tab.0.right" timestamp="1644796711987">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="176" key="GridCell.Tab.0.right/0.0.1368.720@0.0.1368.720" timestamp="1644796349352" />
+    <state width="1325" height="176" key="GridCell.Tab.0.right/0.0.1368.720@0.0.1368.720" timestamp="1644796711987" />
     <state width="1325" height="220" key="GridCell.Tab.1.bottom" timestamp="1644780951019">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
