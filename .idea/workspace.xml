@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="840d1835-be6a-4a07-9021-fae7c10c8aba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DepedencyInversionPrinciple" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DepedencyInversionPrinciple" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DepedencyInversionPrinciple" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="251I2VlASVf4K1jhi3WHcYz17E0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showModules" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.soj.principle.dependencyinversion" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle " />
+      <command value="gradle sonarqube    -Dsonar.projectKey=DependencyInversionPrinciple    -Dsonar.host.url=http://localhost:9000    -Dsonar.login=a1f6a51f2c4769664d04b338e860477b52b960d4" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.DepedencyInversionPrinciple [sonarqube]">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soj.principle.dependencyinversion.Main" />
+      <module name="DepedencyInversionPrinciple.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soj.principle.dependencyinversion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepedencyInversionPrinciple [sonarqube]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="sonarqube" />
+          </list>
+        </option>
+        <option name="vmOptions" value="-Dsonar.projectKey=DependencyInversionPrinciple -Dsonar.host.url=http://localhost:9000 -Dsonar.login=a1f6a51f2c4769664d04b338e860477b52b960d4" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DepedencyInversionPrinciple" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ElectricPowerSwitchTest.testToCheckTheFanSwitchIsOn" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.soj.principle.dependencyinversion.ElectricPowerSwitchTest.testToCheckTheFanSwitchIsOn&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ElectricPowerSwitchTest.testToCheckTheFanSwitchOff" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.soj.principle.dependencyinversion.ElectricPowerSwitchTest.testToCheckTheFanSwitchOff&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.DepedencyInversionPrinciple" />
+        <item itemvalue="Gradle.DepedencyInversionPrinciple [sonarqube]" />
+        <item itemvalue="Gradle.ElectricPowerSwitchTest.testToCheckTheFanSwitchOff" />
+        <item itemvalue="Gradle.ElectricPowerSwitchTest.testToCheckTheFanSwitchIsOn" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="840d1835-be6a-4a07-9021-fae7c10c8aba" name="Default Changelist" comment="" />
+      <created>1644687958572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644687958572</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="276" y="21" key="#Project_Structure" timestamp="1644687991149">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state x="276" y="21" key="#Project_Structure/0.0.1368.720@0.0.1368.720" timestamp="1644687991148" />
+    <state x="489" y="52" key="#com.intellij.ide.util.MemberChooser" timestamp="1644773284623">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state x="489" y="52" key="#com.intellij.ide.util.MemberChooser/0.0.1368.720@0.0.1368.720" timestamp="1644773284623" />
+    <state x="86" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1644773238304">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state x="86" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1368.720@0.0.1368.720" timestamp="1644773238304" />
+    <state width="429" height="466" key="DebuggerActiveHint" timestamp="1644780871916">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="429" height="466" key="DebuggerActiveHint/0.0.1368.720@0.0.1368.720" timestamp="1644780871916" />
+    <state width="1325" height="176" key="GridCell.Tab.0.bottom" timestamp="1644796349352">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="1325" height="176" key="GridCell.Tab.0.bottom/0.0.1368.720@0.0.1368.720" timestamp="1644796349352" />
+    <state width="1325" height="176" key="GridCell.Tab.0.center" timestamp="1644796349352">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="1325" height="176" key="GridCell.Tab.0.center/0.0.1368.720@0.0.1368.720" timestamp="1644796349352" />
+    <state width="1325" height="176" key="GridCell.Tab.0.left" timestamp="1644796349352">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="1325" height="176" key="GridCell.Tab.0.left/0.0.1368.720@0.0.1368.720" timestamp="1644796349352" />
+    <state width="1325" height="176" key="GridCell.Tab.0.right" timestamp="1644796349352">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="1325" height="176" key="GridCell.Tab.0.right/0.0.1368.720@0.0.1368.720" timestamp="1644796349352" />
+    <state width="1325" height="220" key="GridCell.Tab.1.bottom" timestamp="1644780951019">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="1325" height="220" key="GridCell.Tab.1.bottom/0.0.1368.720@0.0.1368.720" timestamp="1644780951019" />
+    <state width="1325" height="220" key="GridCell.Tab.1.center" timestamp="1644780951019">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="1325" height="220" key="GridCell.Tab.1.center/0.0.1368.720@0.0.1368.720" timestamp="1644780951019" />
+    <state width="1325" height="220" key="GridCell.Tab.1.left" timestamp="1644780951019">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="1325" height="220" key="GridCell.Tab.1.left/0.0.1368.720@0.0.1368.720" timestamp="1644780951019" />
+    <state width="1325" height="220" key="GridCell.Tab.1.right" timestamp="1644780951019">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="1325" height="220" key="GridCell.Tab.1.right/0.0.1368.720@0.0.1368.720" timestamp="1644780951019" />
+    <state x="392" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1644758013909">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state x="392" y="187" key="com.intellij.ide.util.TipDialog/0.0.1368.720@0.0.1368.720" timestamp="1644758013909" />
+    <state x="99" y="92" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1644777987383">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state x="99" y="92" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1368.720@0.0.1368.720" timestamp="1644777987383" />
+    <state x="340" y="160" width="672" height="677" key="run.anything.popup" timestamp="1644796349352">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state x="340" y="160" width="672" height="677" key="run.anything.popup/0.0.1368.720@0.0.1368.720" timestamp="1644796349352" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/soj/principle/dependencyinversion/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/soj/principle/dependencyinversion/ElectricPowerSwitchTest.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
