@@ -11,16 +11,16 @@ public class ElectricPowerSwitch implements Switch {
 
 <span class="fc" id="L12">    public ElectricPowerSwitch(Switchable switchable) {</span>
 <span class="fc" id="L13">        this.switchable = switchable;</span>
-<span class="fc" id="L14">        this.on=false;</span>
+    //    this.on;
 <span class="fc" id="L15">    }</span>
     public boolean isOn(){
 <span class="fc" id="L17">        return this.on;</span>
     }
     public boolean press(){
 <span class="fc" id="L20">        boolean checkOn=isOn();</span>
-<span class="pc bpc" id="L21" title="1 of 2 branches missed.">        if (checkOn){</span>
-<span class="nc" id="L22">           logger.debug( switchable.turnOff());</span>
-<span class="nc" id="L23">            this.on=false;</span>
+<span class="fc bfc" id="L21" title="All 2 branches covered.">        if (checkOn){</span>
+<span class="fc" id="L22">           logger.debug( switchable.turnOff());</span>
+<span class="fc" id="L23">            this.on=false;</span>
 
         }else {
 <span class="fc" id="L26">          logger.debug(  switchable.turnOn());</span>

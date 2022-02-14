@@ -1,11 +1,17 @@
 package com.soj.principle.dependencyinversion;
 
+import org.junit.After;
+import org.junit.AfterClass;
+import org.junit.Before;
+import org.junit.BeforeClass;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 class ElectricPowerSwitchTest {
+
+
 
     @Test
     void testIsOnIsFalse() {
@@ -21,8 +27,10 @@ class ElectricPowerSwitchTest {
         Switchable fan = new Fan();
         Switch switchable = new ElectricPowerSwitch(fan);
         String actual = fan.turnOn();
-        boolean checkOn = false;
-        Assertions.assertEquals(checkOn, switchable.press());
+       switchable.press();
+        Assertions.assertEquals(true,switchable.press());
+
+
     }
 
     @Test
@@ -30,9 +38,9 @@ class ElectricPowerSwitchTest {
         Switchable fan = new Fan();
         Switch switchable = new ElectricPowerSwitch(fan);
         String actual = fan.turnOff();
-        boolean checkOn = true;
-      boolean ans=  switchable.press();
-        Assertions.assertNotEquals(checkOn,ans);
+        switchable.press();
+        Assertions.assertEquals(true,switchable.press());
+
     }
 
 }

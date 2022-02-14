@@ -11,7 +11,7 @@ public class ElectricPowerSwitch implements Switch {
 
     public ElectricPowerSwitch(Switchable switchable) {
         this.switchable = switchable;
-        this.on=false;
+       this.on=false;
     }
     public boolean isOn(){
         return this.on;
@@ -19,11 +19,13 @@ public class ElectricPowerSwitch implements Switch {
     public boolean press(){
         boolean checkOn=isOn();
         if (checkOn){
-           logger.debug( switchable.turnOff());
+            String turnOff=switchable.turnOff();
+           logger.debug( turnOff);
             this.on=false;
 
         }else {
-          logger.debug(  switchable.turnOn());
+            String turnOn =switchable.turnOn();
+          logger.debug( turnOn);
           this.on=true;
         }return checkOn;
     }
